@@ -12,20 +12,20 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:lucalves/calculator.git
+git clone git@github.com:lucalves/calculator.git
 
 # Go into the repository
-$ cd calculator
+cd calculator
 
 # Install dependencies
-$ yarn or npm install
+yarn install or npm install
 
 # Go into ios directory (MAC only)
-$ cd ios
+cd ios
 
 # Run this command to install cocoapods (MAC only)
-$ pod install
+pod install
 
 # Run the app on iOS (or android)
-$ yarn ios (yarn android)
+yarn ios (yarn android)
 ```
