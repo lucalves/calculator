@@ -18,7 +18,7 @@ git clone git@github.com:lucalves/calculator.git
 cd calculator
 
 # Install dependencies
-yarn install or npm install
+yarn or npm install
 
 # Go into ios directory (MAC only)
 cd ios
