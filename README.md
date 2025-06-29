@@ -4,7 +4,9 @@
 
 ## What is?
 
-This project is the development of a simple calculator for Android and iOS. Based on the iOS layout.
+This project is the development of a simple calculator for Android and iOS. 
+
+Based on the iOS layout.
 
 ## How to Install
 
